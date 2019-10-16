@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BottomSheetDemo</string>
+    <string name="default_notification_channel_id">6969</string>
+</resources>
